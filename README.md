@@ -3,8 +3,8 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
-## DEVELOPED BY: RAMSANJAY C
-## REG.NO: 212224220077
+## DEVELOPED BY: GOKUL V E
+## REG.NO: 212224220029
 # AIM:
 To practice Linux Commands and Shell Scripting
 
